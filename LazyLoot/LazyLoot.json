@@ -1,5 +1,5 @@
 {
-  "Author": "53m1k0l0n/Gidedin (Puni.sh)",
+  "Author": "Taurenkey, Gid, NightmareXIV",
   "Name": "LazyLoot",
   "Punchline": "Dungeon Loot but Lazy.",
   "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
@@ -12,7 +12,6 @@
   "CategoryTags": null,
   "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
   "ImageUrls": null,
-  "IconUrl": "https://love.puni.sh/resources/lazyloot.png",
+  "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
   "DalamudAPILevel": 15,
-  "ChangeLog": "- 7.5"
 }
